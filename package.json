@@ -1,0 +1,16 @@
+{
+  "name": "@cfn-modules/alb-redirect-to-https",
+  "version": "1.0.0",
+  "description": "ALB redirect to HTTPS",
+  "author": "Michael Wittig <michael@widdix.de>",
+  "license": "Apache-2.0",
+  "keywords": ["cfn-modules"],
+  "homepage": "https://github.com/cfn-modules",
+  "bugs": {
+    "url": "https://github.com/cfn-modules/alb-redirect-to-https/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cfn-modules/alb-redirect-to-https.git"
+  }
+}
