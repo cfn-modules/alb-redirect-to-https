@@ -32,6 +32,14 @@ Resources:
       TemplateURL: './node_modules/@cfn-modules/alb-redirect-to-https/module.yml'
 ```
 
+## Examples
+
+none
+
+## Related modules
+
+* [alb](https://github.com/cfn-modules/alb)
+
 ## Parameters
 
 <table>
