@@ -72,7 +72,7 @@ none
       <td>The priority for the rule. Elastic Load Balancing evaluates rules in priority order, from the lowest value to the highest value. If a request satisfies a rule, Elastic Load Balancing ignores all subsequent rules. A target group can have only one rule with a given priority.</td>
       <td>1</td>
       <td>no</td>
-      <td>1-99999</td>
+      <td>1-50000</td>
     </tr>
     <tr>
       <td>HostPattern</td>
