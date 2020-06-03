@@ -4,9 +4,9 @@
     "eslint": "6.6.0",
     "ava": "2.4.0",
     "@cfn-modules/test": "0.7.3",
-    "@cfn-modules/vpc": "1.1.1",
+    "@cfn-modules/vpc": "1.2.0",
     "@cfn-modules/alb": "1.0.4",
-    "@cfn-modules/alb-listener": "1.0.0",
+    "@cfn-modules/alb-listener": "1.1.0",
     "@cfn-modules/alb-redirect-to-https": "file:../"
   },
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "@cfn-modules/alb-redirect-to-https",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ALB redirect to HTTPS",
   "author": "Michael Wittig <michael@widdix.de>",
   "license": "Apache-2.0",
