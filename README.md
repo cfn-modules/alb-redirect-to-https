@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/cfn-modules/alb-redirect-to-https.svg?branch=master)](https://travis-ci.org/cfn-modules/alb-redirect-to-https)
-[![NPM version](https://img.shields.io/npm/v/@cfn-modules/alb-redirect-to-https.svg)](https://www.npmjs.com/package/@cfn-modules/alb-redirect-to-https)
-
 # cfn-modules: ALB redirect to HTTPS
 
 ALB rediretc to HTTPS.
