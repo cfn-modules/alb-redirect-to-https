@@ -6,7 +6,7 @@
     "@cfn-modules/test": "0.7.3",
     "@cfn-modules/vpc": "1.3.0",
     "@cfn-modules/alb": "1.0.4",
-    "@cfn-modules/alb-listener": "1.1.0",
+    "@cfn-modules/alb-listener": "1.2.0",
     "@cfn-modules/alb-redirect-to-https": "file:../"
   },
   "scripts": {
